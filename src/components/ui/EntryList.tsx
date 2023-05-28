@@ -6,7 +6,7 @@ import { UIContext } from "@/context/ui";
 import { List, Paper } from "@mui/material";
 
 import EntryCard from "./EntryCard";
-import { EntryStatus } from "../../interface/entry";
+import { EntryStatus } from "../../interface/Entry";
 
 import styles from "./EntryList.module.css";
 
